@@ -1,0 +1,35 @@
+name: CI with Versioning
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Generate Version
+        id: version
+        run: |
+          DATE=$(date +'%Y.%m.%d')
+          SHORT_SHA=${GITHUB_SHA::8}
+          PR_NUMBER=${{ github.event.number }}
+          VERSION="$DATE-pr$PR_NUMBER+$SHORT_SHA"
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "Generated version: $VERSION"
+
+      - name: Build
+        run: dotnet build --configuration Release
+
+      - name: Use Version Output
+        run: echo "Version from workflow: ${{ steps.version.outputs.version }}"
