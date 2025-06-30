@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sm49416\\source\\repos\\PR_Checker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C27032-53CB-4AA2-83B1-2A59BC07A788}|PR_Checker\\PR_Checker.csproj|c:\\users\\sm49416\\source\\repos\\pr_checker\\pr_checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C27032-53CB-4AA2-83B1-2A59BC07A788}|PR_Checker\\PR_Checker.csproj|solutionrelative:pr_checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C27032-53CB-4AA2-83B1-2A59BC07A788}|PR_Checker\\PR_Checker.csproj|c:\\users\\sm49416\\source\\repos\\pr_checker\\pr_checker\\properties\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08C27032-53CB-4AA2-83B1-2A59BC07A788}|PR_Checker\\PR_Checker.csproj|solutionrelative:pr_checker\\properties\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C27032-53CB-4AA2-83B1-2A59BC07A788}|PR_Checker\\PR_Checker.csproj|c:\\users\\sm49416\\source\\repos\\pr_checker\\pr_checker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08C27032-53CB-4AA2-83B1-2A59BC07A788}|PR_Checker\\PR_Checker.csproj|solutionrelative:pr_checker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sm49416\\source\\repos\\PR_Checker\\PR_Checker\\Properties\\appsettings.json",
+              "RelativeDocumentMoniker": "PR_Checker\\Properties\\appsettings.json",
+              "ToolTip": "C:\\Users\\sm49416\\source\\repos\\PR_Checker\\PR_Checker\\Properties\\appsettings.json",
+              "RelativeToolTip": "PR_Checker\\Properties\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T17:03:35.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sm49416\\source\\repos\\PR_Checker\\PR_Checker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PR_Checker\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sm49416\\source\\repos\\PR_Checker\\PR_Checker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PR_Checker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T17:01:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sm49416\\source\\repos\\PR_Checker\\PR_Checker\\Program.cs",
+              "RelativeDocumentMoniker": "PR_Checker\\Program.cs",
+              "ToolTip": "C:\\Users\\sm49416\\source\\repos\\PR_Checker\\PR_Checker\\Program.cs",
+              "RelativeToolTip": "PR_Checker\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:59:50.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PR_Checker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
